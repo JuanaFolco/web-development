@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #fccfee;
+}
+h1{
+    text-align: center;
+    background-color:#fffafd ;
+    color: #fccfee;
+    padding: 20px;
+}
+
+img{
+    width: 200px;
+}
+
+.abril {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+}
+.texto {
+    margin-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.shaiel {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+    margin-left: 255px;
+}
+
+.juana {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+}
+
+.lola {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+    margin-left: 255px;
+}
+
+.cami {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+}

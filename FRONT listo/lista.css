@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #fccfee;
+}
+h1{
+    text-align: center;
+    background-color:#fffafd ;
+    color: #fccfee;
+    padding: 20px;
+}
+
+
+img{
+    width: 200px;
+}
+
+.magnolia {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.mapamagnolia{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin-right: 20px;
+}
+.texto {
+    margin-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.tulipan {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+    margin-left: 5px;
+}
+
+.mapatulipan{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin-left: 410px;
+
+}
+.rosas {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.maparosas{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin-right: 20px;
+}
+.jazmin {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+    margin-left: 5px;
+}
+
+.mapajazmin{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin-left: 410px;
+}
+
+.margarita {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.mapamargarita{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin-right: 20px;
+}
+.orquideas {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+    margin-left: 5px;
+}
+
+.mapaorquideas{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin-left: 410px;  
+}
+
+.girasol {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.mapagirasol{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin-right: 20px;
+}
+.lirio {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+    margin-left: 5px;
+}
+
+.mapalirio{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin-left: 410px;  
+}
+

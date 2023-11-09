@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flower</title>
+    <link rel="stylesheet" href="styleform.css">
+    <script src="index (2).js" defer></script> 
+
+
+<body>
+
+
+    <form class="form" id="formFlor">
+        <h3 class="form__title">  🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼  Averigua aquí qué flor eres  </h3>
+        
+        <p class="form__paragraph">Ingresa tus datos </p>
+
+        <div class="form__container">
+
+            <div class="form__group">
+                <input type="text" id="name" class="form__input" placeholder="  ">
+                <label for="name" class="form__label">Apodo:</label>
+                <span class="form__line"></span>
+
+            </div>
+
+
+            <div class="form_group">
+                <div class="sexo">
+                    <label for="Sexo">Sexo:</label><br>
+                    <input type="radio" name="sexo"> Masculino <br>
+                    <input type="radio" name="sexo"> Femenino <br>
+                </div>
+            </div>
+
+            
+
+            <div class="form__group">
+                <input type="text" id="color" class="form__input" placeholder="  ">
+                <label for="color" class="form__label">Color favorito:</label>
+                <span class="form__line"></span>
+
+            </div>
+
+            <div class="form__group">
+                <div class="verano_invierno">
+                <label>¿Qué prefieres?</label><br>
+                <select name="" id="">
+                    <option disabled selected="">Seleccione una estación por favor</option>
+                    <option value="">Invierno</option>
+                    <option value="">Verano</option>
+                    <option value="">Otoño</option>
+                    <option value="">Primavera</option>
+                </select><br>
+            </div>
+            </div>
+
+            <div class="form__group">
+               <label>Fecha de nacimiento:</label><br>
+               <input type="date">
+            </div>
+
+            <button type="submit" id="botonForm" onclick="return validarFlor()">Send</button>
+
+
+        </div>
+        
+    </form>
+
+    <div id="contenedorFlor">
+
+    </div>
+    
+
+
+
+</body>
+
+</html>
